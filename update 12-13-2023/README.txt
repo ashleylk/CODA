@@ -10,7 +10,7 @@ This package enables:
  4. 3D reconstruction of tissue and cellular matrices
 
 For a detailed guide and companion sample dataset, please see the Kiemen lab website:
-
+https://labs.pathology.jhu.edu/kiemen/coda-3d/
 
 Provided below is a brief shorthand for application of CODA. 
 
